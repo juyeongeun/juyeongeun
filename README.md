@@ -56,6 +56,8 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=juyeongeun&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
+<img src="https://github.com/juyeongeun/juyeongeun/blob/output/github-snake.svg" width="100%">
+
 <br>
 <p>🏆 Baekjoon solved rank 🏆</p>
 	
