@@ -52,9 +52,6 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=juyeongeun&show_icons=true&theme=vue" width=56% />
 </a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=juyeongeun&theme=vue" width=94%/>
-</a>
 
 <img src="https://github.com/juyeongeun/juyeongeun/blob/output/github-snake.svg" width="100%">
 
