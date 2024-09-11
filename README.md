@@ -48,10 +48,10 @@
 <div align=center>
 	<br>
 	<a href="https://github.com/anuraghazra/github-readme-stats">
-    		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juyeongeun&layout=donut&show_icons=true&theme=vue" width=80%/>
+    		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juyeongeun&layout=donut&show_icons=true&theme=vue" width=30%/>
 	</a>    
 	<a href="https://github.com/anuraghazra/github-readme-stats">
-  		<img src="https://github-readme-stats.vercel.app/api?username=juyeongeun&show_icons=true&theme=vue" width=90% />
+  		<img src="https://github-readme-stats.vercel.app/api?username=juyeongeun&show_icons=true&theme=vue" width=40% />
 	</a>
 </div>
 <div align=center>
