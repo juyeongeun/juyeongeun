@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=영근이%20Github!&fontSize=80" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=yeongeun's%20Github🍀&fontSize=80" />	
 </div>
 
 <div align=center>
@@ -44,15 +44,20 @@
 	</a>
 	<br>
 </div>
+
 <div align=center>
 	<br>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juyeongeun&layout=donut&show_icons=true&theme=vue" width=80%/>
-</a>    
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=juyeongeun&show_icons=true&theme=vue" width=90% />
-</a>
+	<a href="https://github.com/anuraghazra/github-readme-stats">
+    		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juyeongeun&layout=donut&show_icons=true&theme=vue" width=80%/>
+	</a>    
+	<a href="https://github.com/anuraghazra/github-readme-stats">
+  		<img src="https://github-readme-stats.vercel.app/api?username=juyeongeun&show_icons=true&theme=vue" width=90% />
+	</a>
+</div>
+<div align=center>
+	<img src="https://github.com/juyeongeun/juyeongeun/blob/output/github-snake.svg" width="100%">
+</div>
 
-<img src="https://github.com/juyeongeun/juyeongeun/blob/output/github-snake.svg" width="100%">
+
 
 
