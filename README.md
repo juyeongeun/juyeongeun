@@ -55,9 +55,4 @@
 
 <img src="https://github.com/juyeongeun/juyeongeun/blob/output/github-snake.svg" width="100%">
 
-<br>
-<p>🏆 Baekjoon solved rank 🏆</p>
-	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=juyeongeun)](https://solved.ac/kycasdzxc)
-</div>
-<br>
+
