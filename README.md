@@ -38,10 +38,10 @@
     <td width="53%" valign="center">
       <div align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juyeongeun&layout=donut&show_icons=true&theme=vue" width="45%"/>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juyeongeun&layout=donut&show_icons=true&theme=vue" width="49%"/>
         </a>    
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=juyeongeun&show_icons=true&theme=vue" width="54%" />
+          <img src="https://github-readme-stats.vercel.app/api?username=juyeongeun&show_icons=true&theme=vue&count_private=true&hide=stars,commits,prs,issues,contribs" width="49%" />
         </a>
       </div>
       <div align="center" style="margin-top: 15px;">
