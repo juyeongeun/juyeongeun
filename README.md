@@ -38,16 +38,17 @@
     <td width="53%" valign="center">
       <div align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juyeongeun&layout=donut&show_icons=true&theme=vue" width="49%"/>
-        </a>    
-        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juyeongeun&layout=compact&show_icons=true&theme=vue&count_private=true&hide=stars,commits,prs,issues,contribs" width="49%"/>
           <img src="https://github-readme-stats.vercel.app/api?username=juyeongeun&show_icons=true&theme=vue&count_private=true&hide=stars,commits,prs,issues,contribs" width="49%" />
-        </a>
+        </a>    
       </div>
       <div align="center" style="margin-top: 15px;">
         <a href="https://solved.ac/profile/juyeongeun" target="_blank">
-          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=juyeongeun" width="60%">
+          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=juyeongeun" width="50%">
         </a>
+<!--         <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/wakatime?username=juyeongeun" width="49%" />
+        </a> -->
       </div>
     </td>
   </tr>
