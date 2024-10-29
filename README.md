@@ -1,6 +1,5 @@
-<div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=yeongeun's%20Github🍀&fontSize=60&fontAlignY=37" />	
-</div>
+<div>
+	<h1>🍀Yeongeun Ju🍀</h1>
 
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
@@ -21,6 +20,8 @@
 	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white">
 </div>
+</div>
+
 <br>
 <div align=center>
 	<p>🛠 Tools 🛠</p>
@@ -52,6 +53,9 @@
 	</a>    
 	<a href="https://github.com/anuraghazra/github-readme-stats">
   		<img src="https://github-readme-stats.vercel.app/api?username=juyeongeun&show_icons=true&theme=vue" width=40% />
+	</a>
+	<a herf="https://solved.ac/profile/juyeongeun/", target="_blank">
+		<img src=http://mazassumnida.wtf/api/v2/generate_badge?boj=juyeongeun>
 	</a>
 </div>
 <div align=center>
