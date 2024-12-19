@@ -1,8 +1,5 @@
-<table width="100%">
-  <tr>
-    <td width="47%" valign="top">
-      <div align="center">
-        <h1>👩🏻‍💻 Yeongeun Ju 👩🏻‍💻</h1>
+<h1 align="center">👩🏻‍💻 Yeongeun Ju 👩🏻‍💻</h1>
+      <div align="center" width="100%">
         <h3>📚 Tech Stack 📚</h3>
         <p>✨ Frontend ✨</p>
         <div>
@@ -54,25 +51,19 @@
           <img src="https://img.shields.io/badge/Mail-30B980?style=flat-square&logo=Gmail&logoColor=white" />
         </a>
       </div>
-    </td>
-    <td width="53%" valign="center">
       <div align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juyeongeun&layout=compact&show_icons=true&theme=vue&count_private=true&hide=stars,commits,prs,issues,contribs" width="49%"/>
-          <img src="https://github-readme-stats.vercel.app/api?username=juyeongeun&show_icons=true&theme=vue&count_private=true&hide=stars,commits,prs,issues,contribs" width="49%" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juyeongeun&layout=compact&show_icons=true&theme=vue&count_private=true&hide=stars,commits,prs,issues,contribs" width="20%"/>
+<!--           <img src="https://github-readme-stats.vercel.app/api?username=juyeongeun&show_icons=true&theme=vue&count_private=true&hide=stars,commits,prs,issues,contribs" width="20%" /> -->
+            <img width="30%" src="https://github-readme-streak-stats.herokuapp.com?user=juyeongeun&date_format=n%2Fj%5B%2FY%5D&border=FFFFFF&ring=2BBC8A&currStreakNum=FFFFFF&stroke=FFFFFF&background=161B22&sideNums=FFFFFF&sideLabels=2BBC8A&dates=ECECEC&currStreakLabel=2BBC8A&card_height="150" />
+          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=juyeongeun" width="21%">
         </a>    
       </div>
       <div align="center" style="margin-top: 15px;">
-        <a href="https://solved.ac/profile/juyeongeun" target="_blank">
-          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=juyeongeun" width="50%">
-        </a>
 <!--         <a href="https://github.com/anuraghazra/github-readme-stats">
           <img src="https://github-readme-stats.vercel.app/api/wakatime?username=juyeongeun" width="49%" />
         </a> -->
       </div>
-    </td>
-  </tr>
-</table>
 <div align="center" style="margin-top: 20px;">
   <img src="https://github.com/juyeongeun/juyeongeun/blob/output/github-snake.svg" width="80%">
 </div>
