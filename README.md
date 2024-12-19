@@ -42,6 +42,7 @@
         <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white" />
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
       </div>
+      <br/>
       <div align="center" style="margin-top: 20px;">
         <p>🎨 SNS & Portfolio 🎨</p>
         <a href="https://jju-int-p.tistory.com/">
