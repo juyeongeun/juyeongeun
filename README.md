@@ -51,12 +51,13 @@
           <img src="https://img.shields.io/badge/Mail-30B980?style=flat-square&logo=Gmail&logoColor=white" />
         </a>
       </div>
+      <br/>
       <div align="center">
         <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juyeongeun&layout=compact&show_icons=true&theme=vue&count_private=true&hide=stars,commits,prs,issues,contribs" width="20%"/>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juyeongeun&layout=compact&show_icons=true&theme=vue&count_private=true&hide=stars,commits,prs,issues,contribs" width="22%"/>
 <!--           <img src="https://github-readme-stats.vercel.app/api?username=juyeongeun&show_icons=true&theme=vue&count_private=true&hide=stars,commits,prs,issues,contribs" width="20%" /> -->
-            <img width="30%" src="https://github-readme-streak-stats.herokuapp.com?user=juyeongeun&date_format=n%2Fj%5B%2FY%5D&border=FFFFFF&ring=2BBC8A&currStreakNum=FFFFFF&stroke=FFFFFF&background=161B22&sideNums=FFFFFF&sideLabels=2BBC8A&dates=ECECEC&currStreakLabel=2BBC8A&card_height="150" />
-          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=juyeongeun" width="21%">
+            <img width="35%" src="https://github-readme-streak-stats.herokuapp.com?user=juyeongeun&date_format=n%2Fj%5B%2FY%5D&border=FFFFFF&ring=2BBC8A&currStreakNum=FFFFFF&stroke=FFFFFF&background=161B22&sideNums=FFFFFF&sideLabels=2BBC8A&dates=ECECEC&currStreakLabel=2BBC8A&card_height="150" />
+          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=juyeongeun" width="25%">
         </a>    
       </div>
       <div align="center" style="margin-top: 15px;">
@@ -65,5 +66,5 @@
         </a> -->
       </div>
 <div align="center" style="margin-top: 20px;">
-  <img src="https://github.com/juyeongeun/juyeongeun/blob/output/github-snake.svg" width="80%">
+  <img src="https://github.com/juyeongeun/juyeongeun/blob/output/github-snake.svg" width="100%">
 </div>
