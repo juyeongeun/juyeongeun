@@ -61,7 +61,7 @@
         </a>    
       </div>
       <div align="center" style="margin-top: 15px;">
-            <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=juyeongeun&date_format=n%2Fj%5B%2FY%5D&border=FFFFFF&ring=2BBC8A&currStreakNum=FFFFFF&stroke=FFFFFF&background=161B22&sideNums=FFFFFF&sideLabels=2BBC8A&dates=ECECEC&currStreakLabel=2BBC8A&card_height="150" />
+            <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=juyeongeun&theme=android-dark&short_numbers=true&mode=weekly" alt="GitHub Streak" /></a>
 <!--         <a href="https://github.com/anuraghazra/github-readme-stats">
           <img src="https://github-readme-stats.vercel.app/api/wakatime?username=juyeongeun" width="49%" />
         </a> -->
