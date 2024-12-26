@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=300&color=808080&center=true&vCenter=true&width=435&lines=Frontend+Developer;Problem+Solver;Creative+Thinker" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=300&color=808080&center=true&vCenter=true&width=435&lines=FullStack+Developer;Problem+Solver;Creative+Thinker" alt="Typing SVG" />
 </div>
 
 <h3 align="center">💫 Tech Stack 💫</h3>
