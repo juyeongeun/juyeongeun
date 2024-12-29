@@ -73,17 +73,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=juyeongeun&theme=transparent" height="150" alt="streak graph"/>
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://github.com/juyeongeun/juyeongeun/blob/output/github-snake.svg" alt="Snake animation" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/juyeongeun/count.svg" alt="visitor counter" />
 </div>
