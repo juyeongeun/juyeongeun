@@ -66,8 +66,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juyeongeun&show_icons=true&locale=en&layout=compact&theme=transparent" height="150" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=juyeongeun&show_icons=true&theme=transparent" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juyeongeun&show_icons=true&locale=en&layout=compact&theme=transparent&count_private=true&include_all_commits=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=juyeongeun&show_icons=true&locale=en&layout=compact&theme=transparent&count_private=true&include_all_commits=true" height="150" alt="stats graph"/>
 </div>
 
 <br/>
