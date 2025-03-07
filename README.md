@@ -1,77 +1,53 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&duration=2000&pause=1000&color=808080&center=true&vCenter=true&repeat=false&width=435&lines=Yeongeun+Ju" alt="Typing SVG" />
+<div>
+  <h1>👋 Yeongeun's Github</h1>
 </div>
 
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=300&color=808080&center=true&vCenter=true&width=435&lines=FullStack+Developer;Problem+Solver;Creative+Thinker" alt="Typing SVG" />
+<br>
+
+<div>
+  <h3>📚 My Tech Blog</h3>
+  
+  > [yeongeun's Blog](https://jju-int-p.tistory.com)
+
+  <h3>📄 My Resume</h3>
+
+  > [yeongeun's Resume](https://arrow-season-125.notion.site/17b2f771e4c380a79fe1e3fe75eb1c3b?pvs=4)
+
 </div>
 
-<h3 align="center">💫 Tech Stack 💫</h3>
+<br>
 
-<br/>
+<h2>💫 Tech Stack 💫</h2>
 
-<table align="center" border="0">
-<tr>
-    <td width="50%" align="center">
-        <h3>✨ Frontend ✨</h3>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo" />
-        <img width="12" />
-        <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="60" alt="tailwindcss logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo" />
-    </td>
-    <td width="50%" align="center">
-        <h3>✨ Language ✨</h3>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="60" alt="c logo" />
-    </td>
-</tr>
-<tr>
-    <td align="center">
-        <h3>✨ Backend ✨</h3>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo" />
-        <img width="12" />
-        <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo" />
-    </td>
-    <td align="center">
-        <h3>✨ ETC ✨</h3>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo" />
-        <img width="12" />
-        <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
-        <img width="12" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="60" alt="visualstudio logo" />
-        <img width="12" />
-        <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
-    </td>
-</tr>
-</table>
+<h3>Frontend</h3>
 
-<br/>
+<div>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"> <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=Tailwind css&logoColor=white" /> <img src="https://img.shields.io/badge/html5-e34f26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white" /> <img src="https://img.shields.io/badge/css modules-000000?style=for-the-badge&logo=css modules&logoColor=white" /> <img src="https://img.shields.io/badge/storybook-ff4785?style=for-the-badge&logo=storybook&logoColor=white" /> <img src="https://img.shields.io/badge/mockserviceworker-ff6a33?style=for-the-badge&logo=mockserviceworker&logoColor=white" />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juyeongeun&show_icons=true&locale=en&layout=compact&theme=transparent&count_private=true&include_all_commits=true" height="150" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=juyeongeun&show_icons=true&locale=en&layout=compact&theme=transparent&count_private=true&include_all_commits=true" height="150" alt="stats graph"/>
 </div>
 
-<br/>
+<h3>Backend</h3>
 
-<div align="center">
-  <img src="https://github.com/juyeongeun/juyeongeun/blob/output/github-snake.svg" alt="Snake animation" />
+<div>
+<img src="https://img.shields.io/badge/node.js-5fa04e?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/prismaORM-2d3748?style=for-the-badge&logo=prisma&logoColor=white" /> <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/socket.io-c93cd7?style=for-the-badge&logo=socket.io&logoColor=white" />
+
+</div>
+
+<h3>AWS</h3>
+<div>
+<img src="https://img.shields.io/badge/Amazon S3-569a31?style=for-the-badge&logo=Amazon S3&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon ec2-ff9900?style=for-the-badge&logo=Amazon ec2&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon route 53-8c4fff?style=for-the-badge&logo=Amazon route 53&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon rds-527fff?style=for-the-badge&logo=Amazon rds&logoColor=white" /> <img src="https://img.shields.io/badge/Amazon amplify-ff9900?style=for-the-badge&logo=Amazon amplify&logoColor=white" />
+</div>
+
+<h3>Language</h3>
+
+<div>
+<img src="https://img.shields.io/badge/javascript-f7df1e?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/c-a8b9cc?style=for-the-badge&logo=c&logoColor=white" /> <img src="https://img.shields.io/badge/java-ecdc5a?style=for-the-badge&logo=java&logoColor=white" />
+
+</div>
+
+<h3>ETC</h3>
+
+<div>
+<img src="https://img.shields.io/badge/jest-c21325?style=for-the-badge&logo=jest&logoColor=white" /> <img src="https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/swagger-85ea2d?style=for-the-badge&logo=swagger&logoColor=white" /> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+
 </div>
