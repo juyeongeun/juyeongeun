@@ -48,6 +48,6 @@
 <h3>ETC</h3>
 
 <div>
-<img src="https://img.shields.io/badge/jest-c21325?style=for-the-badge&logo=jest&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/swagger-85ea2d?style=for-the-badge&logo=swagger&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+<img src="https://img.shields.io/badge/jest-c21325?style=for-the-badge&logo=jest&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/swagger-85ea2d?style=for-the-badge&logo=swagger&logoColor=black" /> &nbsp; <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 
 </div>
