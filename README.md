@@ -22,7 +22,7 @@
 <h3>Frontend</h3>
 
 <div>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"> &nbsp; <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=Tailwind css&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/html5-e34f26?style=for-the-badge&logo=html5&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/css modules-000000?style=for-the-badge&logo=css modules&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/storybook-ff4785?style=for-the-badge&logo=storybook&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/mockserviceworker-ff6a33?style=for-the-badge&logo=mockserviceworker&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"> &nbsp; <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=Tailwindcss&logoColor=white"> &nbsp; <img src="https://img.shields.io/badge/html5-e34f26?style=for-the-badge&logo=html5&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/css modules-000000?style=for-the-badge&logo=cssmodules&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/storybook-ff4785?style=for-the-badge&logo=storybook&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/mockserviceworker-ff6a33?style=for-the-badge&logo=mockserviceworker&logoColor=white" />
 
 </div>
 
@@ -35,7 +35,7 @@
 
 <h3>AWS</h3>
 <div>
-<img src="https://img.shields.io/badge/Amazon S3-569a31?style=for-the-badge&logo=Amazon S3&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/Amazon ec2-ff9900?style=for-the-badge&logo=Amazon ec2&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/Amazon route 53-8c4fff?style=for-the-badge&logo=Amazon route 53&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/Amazon rds-527fff?style=for-the-badge&logo=Amazon rds&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/Amazon amplify-ff9900?style=for-the-badge&logo=Amazon amplify&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon S3-569a31?style=for-the-badge&logo=AmazonS3&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/Amazon ec2-ff9900?style=for-the-badge&logo=Amazonec2&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/Amazon route 53-8c4fff?style=for-the-badge&logo=Amazonroute53&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/Amazon rds-527fff?style=for-the-badge&logo=Amazonrds&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/Amazon amplify-ff9900?style=for-the-badge&logo=Amazonamplify&logoColor=white" />
 </div>
 
 <h3>Language</h3>
