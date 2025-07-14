@@ -5,13 +5,10 @@
 <br>
 
 <div>
-  <h3>📚 My Tech Blog</h3>
-  
-  > [yeongeun's Blog](https://jju-int-p.tistory.com)
 
   <h3>📄 My Resume</h3>
 
-  > [yeongeun's Resume](https://arrow-season-125.notion.site/17b2f771e4c380a79fe1e3fe75eb1c3b?pvs=4)
+  > [yeongeun's Resume](https://github.com/user-attachments/files/21213114/_.pdf)
 
 </div>
 
