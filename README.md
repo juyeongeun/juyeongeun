@@ -4,16 +4,6 @@
 
 <br>
 
-<div>
-
-  <h3>📄 My Resume</h3>
-
-  > [yeongeun's Resume](https://github.com/user-attachments/files/21213114/_.pdf)
-
-</div>
-
-<br>
-
 <h2>💫 Tech Stack 💫</h2>
 
 <h3>Frontend</h3>
